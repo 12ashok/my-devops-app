@@ -1,0 +1,10 @@
+{
+  "name": "my-devops-platform",
+  "version": "0.1.0",
+  "dependencies": {
+    "@neondatabase/serverless": "^0.10.4", 
+    "next": "15.0.0",
+    "react": "^18",
+    "react-dom": "^18"
+  }
+}
